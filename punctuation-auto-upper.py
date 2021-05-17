@@ -3,7 +3,7 @@ import sublime_plugin
 import re
 
 MAP_PUNCTUATION = {
-    "\ ": "　",
+    //"\ ": "　",
     "“": '"',
     "”": '"',
     "\!": "！",
