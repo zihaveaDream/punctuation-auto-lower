@@ -10,7 +10,7 @@
 
 ## 安装
 1. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> 打开命令行面板. 
-2. 输入 <kbd>pci</kbd>
+2. 输入 <kbd>pcar</kbd>
 3. 选择 Package Control：Add Repository
 4. 输入 github 项目地址
 5. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> 再次打开命令行面板. 
