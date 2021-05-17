@@ -1,6 +1,6 @@
 [
     {
-        "caption": "Punctuation Auto Lower",
-        "command": "punctuation_auto_lower"
+        "caption": "Punctuation Auto upper",
+        "command": "punctuation_auto_upper"
     }
 ]
